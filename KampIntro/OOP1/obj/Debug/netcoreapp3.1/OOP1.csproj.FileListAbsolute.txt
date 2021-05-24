@@ -1,0 +1,13 @@
+D:\CSharpCamp\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.csprojAssemblyReference.cache
+D:\CSharpCamp\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfoInputs.cache
+D:\CSharpCamp\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfo.cs
+D:\CSharpCamp\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.csproj.CoreCompileInputs.cache
+D:\CSharpCamp\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.exe
+D:\CSharpCamp\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.deps.json
+D:\CSharpCamp\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.json
+D:\CSharpCamp\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.dev.json
+D:\CSharpCamp\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.dll
+D:\CSharpCamp\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.pdb
+D:\CSharpCamp\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.dll
+D:\CSharpCamp\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.pdb
+D:\CSharpCamp\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.genruntimeconfig.cache
