@@ -1,0 +1,13 @@
+D:\C#Kampi\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.exe
+D:\C#Kampi\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.deps.json
+D:\C#Kampi\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.json
+D:\C#Kampi\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.dev.json
+D:\C#Kampi\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.dll
+D:\C#Kampi\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.pdb
+D:\C#Kampi\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csprojAssemblyReference.cache
+D:\C#Kampi\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfoInputs.cache
+D:\C#Kampi\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfo.cs
+D:\C#Kampi\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.CoreCompileInputs.cache
+D:\C#Kampi\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.dll
+D:\C#Kampi\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.pdb
+D:\C#Kampi\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.genruntimeconfig.cache

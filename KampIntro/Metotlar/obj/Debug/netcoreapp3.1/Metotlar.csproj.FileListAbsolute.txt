@@ -1,0 +1,13 @@
+D:\C#Kampi\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+D:\C#Kampi\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+D:\C#Kampi\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+D:\C#Kampi\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+D:\C#Kampi\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+D:\C#Kampi\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+D:\C#Kampi\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+D:\C#Kampi\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+D:\C#Kampi\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+D:\C#Kampi\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+D:\C#Kampi\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+D:\C#Kampi\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+D:\C#Kampi\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
