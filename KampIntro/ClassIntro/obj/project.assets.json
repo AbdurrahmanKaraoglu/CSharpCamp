@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharpCamp\\KampIntro\\ClassIntro\\ClassIntro.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharpCamp\\KampIntro\\ClassIntro\\ClassIntro.csproj",
       "projectName": "ClassIntro",
-      "projectPath": "D:\\CSharpCamp\\KampIntro\\ClassIntro\\ClassIntro.csproj",
+      "projectPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\ClassIntro\\ClassIntro.csproj",
       "packagesPath": "C:\\Users\\A_Kar\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharpCamp\\KampIntro\\ClassIntro\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\ClassIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A_Kar\\AppData\\Roaming\\NuGet\\NuGet.Config",

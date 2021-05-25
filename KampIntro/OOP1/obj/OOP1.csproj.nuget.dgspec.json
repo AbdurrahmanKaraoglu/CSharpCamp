@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharpCamp\\KampIntro\\OOP1\\OOP1.csproj": {}
+    "D:\\GitHub\\CSharpCamp\\KampIntro\\OOP1\\OOP1.csproj": {}
   },
   "projects": {
-    "D:\\CSharpCamp\\KampIntro\\OOP1\\OOP1.csproj": {
+    "D:\\GitHub\\CSharpCamp\\KampIntro\\OOP1\\OOP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharpCamp\\KampIntro\\OOP1\\OOP1.csproj",
+        "projectUniqueName": "D:\\GitHub\\CSharpCamp\\KampIntro\\OOP1\\OOP1.csproj",
         "projectName": "OOP1",
-        "projectPath": "D:\\CSharpCamp\\KampIntro\\OOP1\\OOP1.csproj",
+        "projectPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\OOP1\\OOP1.csproj",
         "packagesPath": "C:\\Users\\A_Kar\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharpCamp\\KampIntro\\OOP1\\obj\\",
+        "outputPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\OOP1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A_Kar\\AppData\\Roaming\\NuGet\\NuGet.Config",

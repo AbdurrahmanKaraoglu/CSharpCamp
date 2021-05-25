@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zdfLD1tsSAe+sbX9mM2IoUCiNA839tKUOqFQCl0BojDtIepWyQUymiAezXriDe+Wh6QYiTg/1tzd6OQy65CfpA==",
+  "dgSpecHash": "HJGZIL99YFeH7kRMTDR0Ea+8Bk1fXFxNrh5ZmA+tjoR121fKx5fVC24/vGzrtgedYnSEKqJurCqGwVnhfB7hOQ==",
   "success": true,
-  "projectFilePath": "D:\\CSharpCamp\\KampIntro\\Donguler\\Donguler.csproj",
+  "projectFilePath": "D:\\GitHub\\CSharpCamp\\KampIntro\\Donguler\\Donguler.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

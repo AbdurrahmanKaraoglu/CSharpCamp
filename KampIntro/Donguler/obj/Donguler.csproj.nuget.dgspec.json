@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharpCamp\\KampIntro\\Donguler\\Donguler.csproj": {}
+    "D:\\GitHub\\CSharpCamp\\KampIntro\\Donguler\\Donguler.csproj": {}
   },
   "projects": {
-    "D:\\CSharpCamp\\KampIntro\\Donguler\\Donguler.csproj": {
+    "D:\\GitHub\\CSharpCamp\\KampIntro\\Donguler\\Donguler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharpCamp\\KampIntro\\Donguler\\Donguler.csproj",
+        "projectUniqueName": "D:\\GitHub\\CSharpCamp\\KampIntro\\Donguler\\Donguler.csproj",
         "projectName": "Donguler",
-        "projectPath": "D:\\CSharpCamp\\KampIntro\\Donguler\\Donguler.csproj",
+        "projectPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\Donguler\\Donguler.csproj",
         "packagesPath": "C:\\Users\\A_Kar\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharpCamp\\KampIntro\\Donguler\\obj\\",
+        "outputPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\Donguler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A_Kar\\AppData\\Roaming\\NuGet\\NuGet.Config",

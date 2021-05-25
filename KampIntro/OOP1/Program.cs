@@ -19,6 +19,7 @@ namespace OOP1
             productManager.Add(product1);
 
             productManager.Update(product2);
+            // deneme yazısı
 
         }
     }

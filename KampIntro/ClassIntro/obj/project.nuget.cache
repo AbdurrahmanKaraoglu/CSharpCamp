@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vVbh00a6Zn3WUGgcOcnlaaqSmojCN9Yux6XFXG9f0Gfyig4L2t40GyXxaC8EF+cuXj5ktSG/0rfNFuujtrq5XA==",
+  "dgSpecHash": "bGwAO/sHrAtFnh5MS+dUm5K5h4zzD1vJ47XUskwaLG3IpoF7FB7ZgoCls5s3/Tl+kl8iHe+vYJH7YVy/F74c0g==",
   "success": true,
-  "projectFilePath": "D:\\CSharpCamp\\KampIntro\\ClassIntro\\ClassIntro.csproj",
+  "projectFilePath": "D:\\GitHub\\CSharpCamp\\KampIntro\\ClassIntro\\ClassIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

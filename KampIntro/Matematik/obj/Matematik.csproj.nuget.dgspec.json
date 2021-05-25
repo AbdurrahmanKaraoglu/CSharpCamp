@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharpCamp\\KampIntro\\Matematik\\Matematik.csproj": {}
+    "D:\\GitHub\\CSharpCamp\\KampIntro\\Matematik\\Matematik.csproj": {}
   },
   "projects": {
-    "D:\\CSharpCamp\\KampIntro\\Matematik\\Matematik.csproj": {
+    "D:\\GitHub\\CSharpCamp\\KampIntro\\Matematik\\Matematik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharpCamp\\KampIntro\\Matematik\\Matematik.csproj",
+        "projectUniqueName": "D:\\GitHub\\CSharpCamp\\KampIntro\\Matematik\\Matematik.csproj",
         "projectName": "Matematik",
-        "projectPath": "D:\\CSharpCamp\\KampIntro\\Matematik\\Matematik.csproj",
+        "projectPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\Matematik\\Matematik.csproj",
         "packagesPath": "C:\\Users\\A_Kar\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharpCamp\\KampIntro\\Matematik\\obj\\",
+        "outputPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\Matematik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A_Kar\\AppData\\Roaming\\NuGet\\NuGet.Config",

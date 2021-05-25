@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tbgy2soMgzNITdogYCDFR2BYx+b7SZtwCtLHKML0i7xo36uNhfwoCmlsAAh7rWmHb5uOh34PmMVmn2cZRL7k5Q==",
+  "dgSpecHash": "qfo1pIj/wX1iFy7uwRPQ4Opd83UDdM0FjbrQwviwr5pd6ruGhfJgz8M8GYh02nrVkrY2ON9bkorPqh4QI3u2cw==",
   "success": true,
-  "projectFilePath": "D:\\CSharpCamp\\KampIntro\\GenericsIntro\\GenericsIntro.csproj",
+  "projectFilePath": "D:\\GitHub\\CSharpCamp\\KampIntro\\GenericsIntro\\GenericsIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

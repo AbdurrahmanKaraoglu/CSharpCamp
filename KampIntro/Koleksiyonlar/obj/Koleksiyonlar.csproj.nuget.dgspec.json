@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharpCamp\\KampIntro\\Koleksiyonlar\\Koleksiyonlar.csproj": {}
+    "D:\\GitHub\\CSharpCamp\\KampIntro\\Koleksiyonlar\\Koleksiyonlar.csproj": {}
   },
   "projects": {
-    "D:\\CSharpCamp\\KampIntro\\Koleksiyonlar\\Koleksiyonlar.csproj": {
+    "D:\\GitHub\\CSharpCamp\\KampIntro\\Koleksiyonlar\\Koleksiyonlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharpCamp\\KampIntro\\Koleksiyonlar\\Koleksiyonlar.csproj",
+        "projectUniqueName": "D:\\GitHub\\CSharpCamp\\KampIntro\\Koleksiyonlar\\Koleksiyonlar.csproj",
         "projectName": "Koleksiyonlar",
-        "projectPath": "D:\\CSharpCamp\\KampIntro\\Koleksiyonlar\\Koleksiyonlar.csproj",
+        "projectPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\Koleksiyonlar\\Koleksiyonlar.csproj",
         "packagesPath": "C:\\Users\\A_Kar\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharpCamp\\KampIntro\\Koleksiyonlar\\obj\\",
+        "outputPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\Koleksiyonlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A_Kar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharpCamp\\KampIntro\\GenericsIntro\\GenericsIntro.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharpCamp\\KampIntro\\GenericsIntro\\GenericsIntro.csproj",
       "projectName": "GenericsIntro",
-      "projectPath": "D:\\CSharpCamp\\KampIntro\\GenericsIntro\\GenericsIntro.csproj",
+      "projectPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\GenericsIntro\\GenericsIntro.csproj",
       "packagesPath": "C:\\Users\\A_Kar\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharpCamp\\KampIntro\\GenericsIntro\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\GenericsIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A_Kar\\AppData\\Roaming\\NuGet\\NuGet.Config",

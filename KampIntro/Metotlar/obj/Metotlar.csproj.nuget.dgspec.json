@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharpCamp\\KampIntro\\Metotlar\\Metotlar.csproj": {}
+    "D:\\GitHub\\CSharpCamp\\KampIntro\\Metotlar\\Metotlar.csproj": {}
   },
   "projects": {
-    "D:\\CSharpCamp\\KampIntro\\Metotlar\\Metotlar.csproj": {
+    "D:\\GitHub\\CSharpCamp\\KampIntro\\Metotlar\\Metotlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharpCamp\\KampIntro\\Metotlar\\Metotlar.csproj",
+        "projectUniqueName": "D:\\GitHub\\CSharpCamp\\KampIntro\\Metotlar\\Metotlar.csproj",
         "projectName": "Metotlar",
-        "projectPath": "D:\\CSharpCamp\\KampIntro\\Metotlar\\Metotlar.csproj",
+        "projectPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\Metotlar\\Metotlar.csproj",
         "packagesPath": "C:\\Users\\A_Kar\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharpCamp\\KampIntro\\Metotlar\\obj\\",
+        "outputPath": "D:\\GitHub\\CSharpCamp\\KampIntro\\Metotlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A_Kar\\AppData\\Roaming\\NuGet\\NuGet.Config",
